@@ -1,0 +1,4 @@
+[2012-01-19 22:50:04] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "HEAD /" (uncaught exception) at /var/www/blog/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/EventListener/RouterListener.php line 83 [] []
+[2012-01-19 22:50:06] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "HEAD /" (uncaught exception) at /var/www/blog/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/EventListener/RouterListener.php line 83 [] []
+[2012-01-19 22:50:15] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at /var/www/blog/app/cache/prod/classes.php line 4560 [] []
+[2012-01-22 22:58:26] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "HEAD /" (uncaught exception) at /var/www/blog/app/cache/prod/classes.php line 4560 [] []
